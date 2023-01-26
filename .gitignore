@@ -92,7 +92,11 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
+<<<<<<< HEAD
 
+=======
+*.vcxproj
+>>>>>>> c55153d (add gitignore)
 # Chutzpah Test files
 _Chutzpah*
 
@@ -348,3 +352,8 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+<<<<<<< HEAD
+=======
+*.filters
+*.sln
+>>>>>>> c55153d (add gitignore)
