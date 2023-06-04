@@ -96,6 +96,7 @@ StyleCopReport.xml
 
 =======
 *.vcxproj
+chpsFourth/
 >>>>>>> c55153d (add gitignore)
 # Chutzpah Test files
 _Chutzpah*
