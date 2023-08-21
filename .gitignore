@@ -358,3 +358,7 @@ MigrationBackup/
 *.filters
 *.sln
 >>>>>>> c55153d (add gitignore)
+/chpsFourteen/chpsFourteen.vcxproj.filters
+/chpsFourteen/chpsFourteen.vcxproj
+/chpsFourteen/chpsFourteen.vcxproj.filters
+/chpsFourteen/chpsFourteen.vcxproj
