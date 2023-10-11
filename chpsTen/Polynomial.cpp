@@ -478,7 +478,7 @@ void Polynomial::sort_poly()
 
 		}
 		else {
-			if (std::regex_match(poly.back(), std::regex("[+-]?(\\d+\\.\\d+|\d+)"))
+			if (std::regex_match(poly.back(), std::regex("[+-]?(\\d+\\.\\d+|\\d+)"))
 				&& term[2].str() == "x") {
 
 				if (*(poly.rbegin() + 1) != term.str()) {
